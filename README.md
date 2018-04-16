@@ -50,23 +50,23 @@ _Run Server!_
 
 main page before login
 
-![main_page](blob/master/sample/main.png)
+![main_page](./sample/main.png)
 
 test sign up
 
-![sign_up](blob/master/sample/register.png)
+![sign_up](./sample/register.png)
 
 test database confirm
 
-![database_show](blob/master/sample/database.png)
+![database_show](./sample/database.png)
 
 login session
 
-![show_session](blob/master/sample/session.png)
+![show_session](./sample/session.png)
 
 after login
 
-![after_login](blob/master/sample/afterlogin.png)
+![after_login](./sample/afterlogin.png)
 
 
 ## License

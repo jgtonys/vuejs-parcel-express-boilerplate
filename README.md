@@ -50,23 +50,23 @@ _Run Server!_
 
 main page before login
 
-![main_page](./sample/main.png)
+![main_page](./sample/main.PNG)
 
 test sign up
 
-![sign_up](./sample/register.png)
+![sign_up](./sample/register.PNG)
 
 test database confirm
 
-![database_show](./sample/database.png)
+![database_show](./sample/database.PNG)
 
 login session
 
-![show_session](./sample/session.png)
+![show_session](./sample/session.PNG)
 
 after login
 
-![after_login](./sample/afterlogin.png)
+![after_login](./sample/afterlogin.PNG)
 
 
 ## License

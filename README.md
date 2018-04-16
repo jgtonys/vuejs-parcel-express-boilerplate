@@ -11,7 +11,7 @@ _This is SPA(Single Page Application)_
 
 _Download Boilerplate_
 
-* `git clone`
+* `git clone https://github.com/jgtonys/vuejs-parcel-express-boilerplate`
 
 _Configure Front End_
 
@@ -50,23 +50,23 @@ _Run Server!_
 
 main page before login
 
-![main_page](/sample/main.png)
+![main_page](blob/master/sample/main.png)
 
 test sign up
 
-![sign_up](/sample/register.png)
+![sign_up](blob/master/sample/register.png)
 
 test database confirm
 
-![database_show](/sample/database.png)
+![database_show](blob/master/sample/database.png)
 
 login session
 
-![show_session](/sample/session.png)
+![show_session](blob/master/sample/session.png)
 
 after login
 
-![after_login](/sample/afterlogin.png)
+![after_login](blob/master/sample/afterlogin.png)
 
 
 ## License

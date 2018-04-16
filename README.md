@@ -50,23 +50,23 @@ _Run Server!_
 
 main page before login
 
-![main_page](./sample/main.png)
+![main_page](https://github.com/jgtonys/vuejs-parcel-express-boilerplate/sample/main.png)
 
 test sign up
 
-![sign_up](./sample/register.png)
+![sign_up](https://github.com/jgtonys/vuejs-parcel-express-boilerplate//sample/register.png)
 
 test database confirm
 
-![database_show](./sample/database.png)
+![database_show](https://github.com/jgtonys/vuejs-parcel-express-boilerplate//sample/database.png)
 
 login session
 
-![show_session](./sample/session.png)
+![show_session](https://github.com/jgtonys/vuejs-parcel-express-boilerplate//sample/session.png)
 
 after login
 
-![after_login](./sample/afterlogin.png)
+![after_login](https://github.com/jgtonys/vuejs-parcel-express-boilerplate//sample/afterlogin.png)
 
 
 ## License

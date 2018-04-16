@@ -1,0 +1,7 @@
+node_modules/*
+*.manifest
+*.log
+package-lock.json
+client/node_modules/*
+client/.cache/*
+client/package-lock.json
